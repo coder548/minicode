@@ -17,7 +17,7 @@ int main() {
 }
 
 string mailf () {
-        string letters[13] = {"i", "b", "r", "a", "h", "i", "m", "e", "l", "n", "e", "m", "r" };
+        string letters[13] = {"a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m" };
         
         int numbers[6];
         string newletters[6];
